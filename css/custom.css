@@ -429,6 +429,51 @@ section {
     .tech .tech-area:nth-child(5) .content span {
       color: #53b2ff; }
 
+#industry {
+  background-color: rgba(255, 255, 255, 0.92);
+  color: #222; }
+  #industry .industry-flex {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2em; }
+    #industry .industry-flex .industry-area {
+      display: block;
+      position: relative;
+      width: 17em;
+      height: auto;
+      border: 1px dotted #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-image: linear-gradient(58deg, rgba(0, 0, 0, 0.09), rgba(4, 4, 4, 0) 56%), linear-gradient(77deg, #e9e9e9, transparent 27%);
+      background-color: rgba(255, 255, 255, 0.95); }
+      #industry .industry-flex .industry-area .content {
+        width: 90%;
+        margin: 3em; }
+        #industry .industry-flex .industry-area .content .pic-area {
+          position: relative;
+          display: block;
+          width: 100%;
+          height: auto; }
+          #industry .industry-flex .industry-area .content .pic-area img {
+            display: block;
+            width: 152px;
+            height: 108px;
+            margin: auto;
+            margin-bottom: 8%; }
+        #industry .industry-flex .industry-area .content span {
+          width: 100%;
+          text-align: center;
+          display: block; }
+    #industry .industry-flex .industry-area:hover {
+      transform: scale(1.05);
+      z-index: 1;
+      box-shadow: 0px 0px 30px 2px rgba(0, 0, 0, 0.09);
+      cursor: pointer;
+      transition: all 0.2s ease-in-out; }
+
 #contact {
   background-color: rgba(11, 16, 25, 0.75);
   color: rgba(255, 255, 255, 0.8); }
