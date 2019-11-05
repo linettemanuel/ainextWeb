@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>flow1-icon7</title>
+    <desc>Created with Sketch.</desc>
+    <g id="flow1-icon7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arrows-rotate-dashed">
+            <g id="Group-17" transform="translate(29.369405, 14.659207) scale(-1, 1) rotate(-180.000000) translate(-29.369405, -14.659207) translate(21.869405, 0.159207)">
+                <g id="Group">
+                    <path d="M0.661809859,0.66441336 C3.92659964,1.10909127 7.0773561,2.58631752 9.5871307,5.09609212 C15.1575806,10.6660214 15.6423525,19.3950383 11.0404048,25.5143061 L9.03779207,27.5169188" id="Path" stroke="#53B2FF" stroke-width="1.5" stroke-dasharray="4.1705,2.0853"></path>
+                    <path d="M8.65195328,27.9032783 L7.9156833,28.6395483" id="Path" stroke="#000000" stroke-width="2"></path>
+                </g>
+                <polyline id="Path" stroke="#53B2FF" stroke-width="1.5" stroke-linejoin="bevel" points="7.9146419 22.9108055 7.9146419 28.6385069 13.6423433 28.6385069"></polyline>
+            </g>
+            <g id="Group" transform="translate(0.000000, 8.747762)">
+                <path d="M18.901727,37.7057706 C14.3310213,37.0832215 9.91996222,35.0151048 6.40627778,31.5014203 C-1.39235213,23.7035194 -2.07103268,11.4828957 4.37169411,2.9159207 L7.17535186,0.112262947" id="Path" stroke="#53B2FF" stroke-width="1.5" stroke-dasharray="4.1705,2.0853"></path>
+                <circle id="Oval" fill="#53B2FF" cx="23.4848466" cy="37.4477178" r="2.34440644"></circle>
+                <circle id="Oval" fill="#53B2FF" cx="18.3819853" cy="19.9521936" r="2.34440644"></circle>
+            </g>
+            <polyline id="Path" stroke="#53B2FF" stroke-width="1.5" stroke-linejoin="bevel" points="8.7477621 15.3085837 8.7477621 7.28980175 0.728980175 7.28980175"></polyline>
+        </g>
+    </g>
+</svg>
