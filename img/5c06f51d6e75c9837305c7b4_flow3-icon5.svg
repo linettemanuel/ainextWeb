@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>flow3-icon5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="flow3-icon5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Rectangle" stroke="#53B2FF" stroke-width="1.5" points="25.4225503 1.84583333 25.4225503 10.4458333 1.44583333 10.4458333 1.44583333 1.84583333"></polygon>
+        <polyline id="Path" stroke="#53B2FF" stroke-width="1.5" transform="translate(28.140013, 13.295833) scale(-1, -1) rotate(-270.000000) translate(-28.140013, -13.295833) " points="34.9900126 10.9900126 34.9900126 15.6016541 21.2900126 15.6016541"></polyline>
+        <polyline id="Path" stroke="#53B2FF" stroke-width="1.5" transform="translate(28.140013, 26.845833) scale(-1, 1) rotate(-270.000000) translate(-28.140013, -26.845833) " points="34.9900126 24.5400126 34.9900126 29.1516541 21.2900126 29.1516541"></polyline>
+        <polygon id="Rectangle" stroke="#53B2FF" stroke-width="1.5" points="25.4225503 29.8458333 25.4225503 38.4458333 1.44583333 38.4458333 1.44583333 29.8458333"></polygon>
+        <rect id="Rectangle" stroke="#53B2FF" stroke-width="1.5" transform="translate(14.300000, 20.145833) rotate(-315.000000) translate(-14.300000, -20.145833) " x="10" y="15.7222477" width="8.6" height="8.84717132"></rect>
+        <path d="M14.3,26.3143399 L14.3,29.8458333" id="Line" stroke="#53B2FF" stroke-width="1.5" stroke-linecap="square"></path>
+        <path d="M14.3,10.4458333 L14.3,13.9773268" id="Line" stroke="#53B2FF" stroke-width="1.5" stroke-linecap="square"></path>
+    </g>
+</svg>

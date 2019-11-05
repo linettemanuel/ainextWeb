@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="50px" viewBox="0 0 51 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>flow1-icon6</title>
+    <desc>Created with Sketch.</desc>
+    <g id="flow1-icon6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.333333, 0.000000)">
+        <g id="Group-16" transform="translate(1.000000, 7.000000)">
+            <path d="M14.5183286,29.1721485 L6.41119606,36.0361835 L6.41119606,29.1721485 L4,29.1721485 C1.790861,29.1721485 2.705415e-16,27.3812875 0,25.1721485 L0,4 C-2.705415e-16,1.790861 1.790861,-1.02622884e-13 4,-1.03028697e-13 L35.1795315,-1.03028697e-13 C37.3886705,-1.03434509e-13 39.1795315,1.790861 39.1795315,4 L39.1795315,25.1721485 C39.1795315,27.3812875 37.3886705,29.1721485 35.1795315,29.1721485 L14.5183286,29.1721485 Z" id="Combined-Shape" stroke="#53B2FF" stroke-width="1.5" stroke-linejoin="round"></path>
+            <g id="Group-15" transform="translate(11.586074, 12.870066)" fill="#53B2FF">
+                <circle id="Oval" cx="1.71600874" cy="1.71600874" r="1.71600874"></circle>
+                <circle id="Oval" cx="8.58004369" cy="1.71600874" r="1.71600874"></circle>
+                <circle id="Oval" cx="15.4440786" cy="1.71600874" r="1.71600874"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
